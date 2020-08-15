@@ -1,3 +1,4 @@
+# using class oop
 import os, platform
 class Hotel:
     def __init__(self,name,rest_total,laun_total,game_total,rent,address,checkin,checkout,room):
