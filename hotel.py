@@ -1,3 +1,4 @@
+# using function
 def intro(name,rest_total,laun_total,game_total,rent,address,checkin,checkout,room):
     print('''\n\n**********WELCOME TO HOTEL************ \n\n
 1.Enter Customer Data
@@ -166,25 +167,3 @@ while True:#making a runable program
         
     else:
         exit("\nThank You!")
-        
-        
-        
-        
-        
-            
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
